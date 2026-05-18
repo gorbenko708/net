@@ -1,6 +1,1 @@
-﻿using System;
-
-public class Utils
-{
-    public void Print() => Console.WriteLine("Utils");
-}
+public int Add(int a, int b) => a + b;
